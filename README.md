@@ -14,6 +14,10 @@ Learning development but having a hard time caring about `getBattingAverages()`?
 
 <img style="width: 100%; margin-top: 20px;" src="./anna-lytical.jpg" />
 
+# path drama
+
+<img style="width: 100%; margin-top: 20px;" src="./path-drama.png" />
+
 ---
 
 Honey, submit a PR if you find something similar, honey! :~)
