@@ -16,6 +16,8 @@ Learning development but having a hard time caring about `getBattingAverages()`?
 
 # path drama
 
+caught myself here (trying to qiuckly fix jdk neovim issue without reading any docs :X)
+
 <img style="width: 100%; margin-top: 20px;" src="./path-drama.png" />
 
 ---
