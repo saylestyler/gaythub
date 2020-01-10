@@ -2,6 +2,10 @@
 
 Learning development but having a hard time caring about `getBattingAverages()`? Not sure what the `class TexasHoldem` might be used for? 
 
+# linked lisp
+
+<img style="width: 100%; margin-top: 20px" src="./linked_lisp.jpg" />
+
 # wig
 
 <img style="width: 100%; margin-top: 20px" src="./queen.png" />
